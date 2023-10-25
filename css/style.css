@@ -12,7 +12,7 @@
 }
 
 .item {
-    display: none;
+    display: block;
     float: left;
     width: 700px;
     height: 300px;
